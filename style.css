@@ -4,7 +4,7 @@ body {
     justify-content: center;
     height: 100vh;
 
-    background-color: #FF6EB4;
+    background-color: #ff6287;
 }
 
 .card {
@@ -62,6 +62,6 @@ body {
     font-size: 48px;
     font-family: sans-serif;
     font-weight: bold;
-    color: #FF6EB4;
+    color: #ff6287;
     text-shadow: 1px 1px #000;
 }
